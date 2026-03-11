@@ -2,7 +2,7 @@
 
 **Role:** Embedded Software developer, Test & Validation Intern  
 **Company:** Chemnitz Power Labs GmbH  
-**Timeline:** [Oct 2025 - Jan 2026]  
+**Timeline:** Oct 2025 - Jan 2026 
 
 ## 📌 Project Overview
 Developed and rigorously validated an embedded control system for a high-performance power electronic Gate Driver. The project required precise regulation of Gate-Source Voltages from 0–25V and Measurement Currents up to 50mA. 
